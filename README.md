@@ -1,0 +1,2 @@
+# TimetablingGeneticAlgorithm
+Course timetabling 
